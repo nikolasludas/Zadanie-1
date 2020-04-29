@@ -1,0 +1,14 @@
+Monitorovanie kvality vody v domácnosti
+
+Anotácia: Internet a komunikácia je v dnešnom svete už úplne bežným pojmom, s ktorým sa stretávame dennodenne. Za posledné roky boom informačných technológií spôsobil, že internetová komunikácia sa rozšírila nielen medzi ľudí, ale aj zariadenia. Príkladom sú dnešné inteligentné domy, autonómne riadené autá a rôzne chytré zariadenia v priemyselných odvetviach.
+Cieľ bakalárskej práce: Cieľom bakalárskej práce je návrh hardverového ale i softvérového riešenia pre detekciu kvality vodyv domácnosti. Študent vytvorí zariadenie za použitia mikrokontoléra Arduino, ktorý bude registrovať prípadnú zmenu kvality vody za použitia vhodného snímača. V ďalšej časti práce bude vytvorená mobilná aplikácia, ktorá upozorní užívateľa na zmenu kvality vody a dá mu možnosť upraviť parametre vody v domácnosti napríklad zmenou PH vody. 
+
+Charakter práce: 
+-	aplikačný.
+Požiadavky na obsah podľa charakteru práce: 
+-	aplikačný - popis riešeného problému, návrh systému/hardvérového riešenia a pod. (modely, ..), metodika vývoja/tvorby, implementácia, popis vytvoreného riešenia, testovanie
+ 
+Požiadavky na vedomosti a zručnosti študenta:
+•	znalosť anglického jazyka za účelom štúdia súvisiacej technickej dokumentácie
+•	znalosť programovacích jazykov (preferovaný je jazyk C, Java, PHP)
+•	znalosť problematiky mobilných aplikácií
